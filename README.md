@@ -25,7 +25,7 @@ Se dividió en dos secciones: por un lado, el análisis general del No Convencio
 ### 2. Etapas por Formación
 | Formación Shale | Formación Tight |
 |------------------|------------------|
-| ![Captura de pantalla 2025-07-11 103540](https://hackmd.io/_uploads/HJi87cRBel.png)|![Captura de pantalla 2025-07-11 103715](https://hackmd.io/_uploads/Bkromq0Hgx.png)|
+| ![Captura de pantalla 2025-07-11 103540](images/shaleetapasf.png)|![Captura de pantalla 2025-07-11 103715](https://hackmd.io/_uploads/Bkromq0Hgx.png)|
 - Se destaca **Vaca Muerta** como la formación con mayor actividad (68.813 etapas) en shale, mientras que en tight, se destaca la formación **Mulichinco** (302 etapas).
 
 ### 3. Etapas por Empresa
