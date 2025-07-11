@@ -25,42 +25,42 @@ Se dividió en dos secciones: por un lado, el análisis general del No Convencio
 ### 2. Etapas por Formación
 | Formación Shale | Formación Tight |
 |------------------|------------------|
-| ![Captura de pantalla 2025-07-11 103540](images/shaleetapasf.png)|![Captura de pantalla 2025-07-11 103715](https://hackmd.io/_uploads/Bkromq0Hgx.png)|
+| ![Captura de pantalla 2025-07-11 103540](images/shaleetapasf.png)|![Captura de pantalla 2025-07-11 103715](images/tightetapasf.png)|
 - Se destaca **Vaca Muerta** como la formación con mayor actividad (68.813 etapas) en shale, mientras que en tight, se destaca la formación **Mulichinco** (302 etapas).
 
 ### 3. Etapas por Empresa
  Formación Shale | Formación Tight |
 |------------------|------------------|
-|![Captura de pantalla 2025-07-11 104417](https://hackmd.io/_uploads/r19HrcCHll.png)|![Captura de pantalla 2025-07-11 104501](https://hackmd.io/_uploads/rk-OS5ASex.png)|
+|![Captura de pantalla 2025-07-11 104417](images/shaleempresas.png)|![Captura de pantalla 2025-07-11 104501](images/tightempresas.png)|
 - **YPF** lidera la actividad en shale con 38.751 etapas realizadas y **TotalEnergies** con 229 etapas realizadas en tight.
 - La compañía privada con mayor participación en shale es **Vista Energy** con 7.077 etapas. 
 
 ### 4. Tipos de Terminación
  Formación Shale | Formación Tight |
 |------------------|------------------|
-|![Captura de pantalla 2025-07-11 104556](https://hackmd.io/_uploads/B143S9ABex.png)|![Captura de pantalla 2025-07-11 104638](https://hackmd.io/_uploads/HkQ0H5CHee.png)|
+|![Captura de pantalla 2025-07-11 104556](images/shaletermi.png)|![Captura de pantalla 2025-07-11 104638](images/tighttermi.png)|
 - El método más común es **tapón-disparo** (59.850 etapas) en shale y **Jetteo** (229 etapas) en tight.
 
 ### 5. Evolución Etapas y Longitudes Horizontales por Año
  Formación Shale | Formación Tight |
 |------------------|------------------|
-|![Captura de pantalla 2025-07-11 104755](https://hackmd.io/_uploads/rJ-7U9RHgx.png)|![Captura de pantalla 2025-07-11 104831](https://hackmd.io/_uploads/r1VB85CBxg.png)|
+|![Captura de pantalla 2025-07-11 104755](images/shaleevol.png)|![Captura de pantalla 2025-07-11 104831](images/tightevol.png)|
 - Se observa que la actividad en formaciones del tipo shale, muestran una tendencia creciente con el pasar de los años. Lo mismo sucede con las longitudes horizontales de los pozos. Caso contrario en formaciones del tipo tight que se observan muchas fluctuaciones en la actividad, mostrando la baja actividad en ese tipo de formaciones (últimos registros en el año **2022**).
 - Principalmente en las formaciones del tipo sale (destacando **Vaca Muerta**), se observa una clara disminución en la actividad en el año **2020** debido a la pandemia del **COVID-19**.
 
 ## Segunda sección:
 ### 1. Comparación entre Tiempo de Realización y Etapas de Fracturas por Año
-![image](https://hackmd.io/_uploads/ByS5890Sxg.png)
+![image](images/duracionetapasvm.png)
 
 - Hasta el año **2019**, se observa una relación creciente entre el tiempo de duración y la cantidad de etapas. En el año **2020**, hubo una baja actividad (menos etapas realizadas en mayores tiempos de realización) debido a la pandemia. A su vez, este año fue el punto de inflexión ya que a partir del **2021** se observa una tendencia creciente en las cantidades de etapas realizadas en menos tiempo.
 
 ### 2. Presiones y Potencias de Equipos por Año
-![image](https://hackmd.io/_uploads/By16U9RHxl.png)
+![image](images/presionpotenciavm.png)
 
 - Estas dos variables son proporcionales. Hasta el año **2016**, se muestra una relación "lineal" entre ambas variables. Luego, desde el año **2016** hasta el año **2019** se observa una baja actividad, pero logrando aumentar las presiones en superficie. A partir de ese año, obviando el año **2020** donde hubo una baja actividad en la industria debido a la pandemia (menos actividad, menos equipos utilizados), hubo una tendencia creciente en cuanto a la potencia usada, manteniendo las presiones relativamente constantes.
 
 ### 3. Eficiencia y Longitudes Horizontales por Año
-![image](https://hackmd.io/_uploads/HJcCU50Hgl.png)
+![image](images/efilongvm.png)
 
 - La eficiencia se midió dividiendo la cantidad de etapa por el tiempo de realización de estas. En **2018** se observa claramente el punto de partida en cuanto a la evolución de la eficiencia, aún estando en pandemia **(2020)**, se observa un aumento de la eficiencia a pesar de la baja actividad sobre la formación Vaca Muerta. Si lo comparamos con la evolución de las longitudes horizontales de los pozos en dicha formación, podemos observar con detalle esa evolución de eficiencia con el pasar de los años, realizando más etapas en longitudes mayores, en menos tiempo.
 
