@@ -19,7 +19,7 @@ Se dividió en dos secciones: por un lado, el análisis general del No Convencio
 ### 1. ¿Arena Nacional o Importada?
 | Formación Shale | Formación Tight |
 |------------------|------------------|
-| ![shalearena](https://hackmd.io/_uploads/Hy5MMq0Sge.png)|![tightarena](https://hackmd.io/_uploads/S1JBzq0rxg.png)|
+| ![shalearena](images/shalearena.png)|![tightarena](https://hackmd.io/_uploads/S1JBzq0rxg.png)|
 - Predominancia del uso de **arena nacional (95.14%)** frente a al uso de **arena importada (4.86%)** en formaciones shale. Mientras que en formaciones tight, sucede lo mismo, pero con una distribución un poco más repartida: uso de **arena importada (31.71%)** respecto al uso de **arena nacional (68.29%)**. 
 
 ### 2. Etapas por Formación
